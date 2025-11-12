@@ -31,7 +31,7 @@ export default function App() {
         .then(userCredential => {
           Alert.alert('✅ Google Login', `Hello ${userCredential.user.displayName}`);
         })
-
+        .catch(error => Alert.alert('Error', error.message));
     }
 
     if (fbResponse?.type === 'success' && fbResponse.authentication) {
