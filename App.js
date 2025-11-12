@@ -57,7 +57,7 @@ export default function App() {
     { title: '🐱Sign in with GitHub', url: 'https://github.com/login', color: '#333', textColor: '#fff' },
     { title: '🖥️Sign in with Microsoft', url: 'https://login.microsoftonline.com', color: '#2F2F8D', textColor: '#fff' },
     { title: '💬Sign in with Twitter', url: 'https://twitter.com/login', color: '#1DA1F2', textColor: '#fff' },
-    { title: '💌Sign in with Yahoo', url: 'https://login.yahoo.com', color: '#6001D2', textColor: '#fff' },
+    { title: '💌Sign  in with Yahoo', url: 'https://login.yahoo.com', color: '#6001D2', textColor: '#fff' },
     { title: '🎮Sign in with Play Games', url: 'https://www.play-games.com/', color: '#cfed0b', textColor: '#000' },
     { title: '🕹️Sign in with Game Center', url: 'https://developer.apple.com/game-center/', color: '#df381e', textColor: '#fff' },
   ];
