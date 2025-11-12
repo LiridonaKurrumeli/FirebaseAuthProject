@@ -64,7 +64,7 @@ export default function App() {
 
   return (
     <ScrollView contentContainerStyle={styles.container}>
-      <Text style={styles.title}>🔥 Firebase  Authentication Providers</Text>
+      <Text style={styles.title}>🔥 Firebase Authentication Providers</Text>
 
       {buttons.map((btn, index) => (
         <TouchableOpacity
