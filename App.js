@@ -51,7 +51,7 @@ export default function App() {
   };
 
   const buttons = [
-    { title: '🌐Sign  in with Google', url: 'https://accounts.google.com/', color: '#1963ec', textColor: '#fff' },
+    { title: '🌐Sign in with Google', url: 'https://accounts.google.com/', color: '#1963ec', textColor: '#fff' },
     { title: '📘Sign in with Facebook', url: 'https://www.facebook.com/', color: '#3b5998', textColor: '#fff' },
     { title: '🍎Sign in with Apple', url: 'https://account.apple.com/account/home', color: '#000', textColor: '#fff' },
     { title: '🐱Sign in with GitHub', url: 'https://github.com/login', color: '#333', textColor: '#fff' },
