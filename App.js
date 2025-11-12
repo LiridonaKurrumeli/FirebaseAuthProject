@@ -77,7 +77,7 @@ export default function App() {
       ))}
 
       <Text style={styles.note}>
-        Play Games  dhe Game Center janë në dispozicion vetëm në Android/iOS builds.
+        Play Games dhe Game Center janë në dispozicion vetëm në Android/iOS builds.
       </Text>
     </ScrollView>
   );
