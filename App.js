@@ -106,10 +106,5 @@ const styles = StyleSheet.create({
     fontSize: 16,
     fontWeight: 'bold',
   },
-  note: {
-    marginTop: 30,
-    fontSize: 12,
-    color: 'gray',
-    textAlign: 'center',
-  },
+  
 });
