@@ -84,7 +84,7 @@ export default function App() {
 }
 
 const styles = StyleSheet.create({
- 
+  
   title: {
     fontSize: 20,
     marginBottom: 20,
